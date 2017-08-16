@@ -1,3 +1,2 @@
-# TecWeb-Aula-TURMA-
-#Adilson Araujo 1700650
-#Michael Jordan 1700620
+Adilson Araujo 1700650
+Michael Jordan 1700620
